@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caching directories
+.cache/
+
+# Replit configuration
+.replit
+
+# Replit package management
+upm/
+
+# Error logs
+*.log
+*.txt
+
